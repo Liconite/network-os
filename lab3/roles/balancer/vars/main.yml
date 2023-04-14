@@ -1,0 +1,4 @@
+---
+# vars file for balance
+nginx_port: 8080
+virtual_ip: 192.168.11.100
